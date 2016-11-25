@@ -6,9 +6,10 @@ setup(
     version = '0.0.1',
     description = 'Python implementation of Distributed Tree Kernels',
 
-    author='Lorenzo Ferrone',
+    author = 'Lorenzo Ferrone',
 
     # Choose your license
-    license='MIT',
+    license = 'MIT',
     packages = find_packages(),
+    install_requires = ['numpy']
 )

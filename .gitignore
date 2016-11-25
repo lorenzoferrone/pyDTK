@@ -1,0 +1,6 @@
+*.DS_Store
+pydtk.egg-info
+pydtk/__pycache__/*
+*.pyc
+*.png
+pydtk/Data/*
